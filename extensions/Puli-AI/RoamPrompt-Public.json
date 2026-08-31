@@ -1,0 +1,15 @@
+{
+  "name": "RoamPrompt",
+  "short_description": "Creates source-grounded smart notes and Zettelkasten cards with Gemini.",
+  "author": "Puli Consulting International Co., Ltd.",
+  "tags": [
+    "ai",
+    "zettelkasten",
+    "academic",
+    "gemini",
+    "knowledge-management"
+  ],
+  "source_url": "https://github.com/Puli-AI/RoamPrompt-Public",
+  "source_repo": "https://github.com/Puli-AI/RoamPrompt-Public.git",
+  "source_commit": "1840b003bd8d74185626f767b47904f8f99d96fa"
+}
